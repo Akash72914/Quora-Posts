@@ -1,1 +1,1 @@
-# Quora-Posts
+Quora Post REST API is a backend application built using Node.js, Express, and EJS, designed to handle core functionalities of a Q&A platform. This API allows users to add new posts, edit existing posts, and delete posts with ease. It demonstrates clean RESTful routing, dynamic rendering using EJS templates, and efficient server-side logic to manage posts just like the basic functionality of Quora.
